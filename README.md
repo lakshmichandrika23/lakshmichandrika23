@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! My name is lakshmi chandrika and I'm  pursuring B.Tech.3rd year from IT Department.</h2>
+<h2 align="center">Hi 👋! My name is lakshmi chandrika and I'm  pursuring B.Tech.4th year from IT Department.</h2>
 
 ###
 
